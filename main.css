@@ -4,10 +4,6 @@ body {
   background-color: black;
 }
 
-.image_set {
-  text-align: center;
-}
-
 .image_set > img {
   width: 500px;
   height: 500px;
