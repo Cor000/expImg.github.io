@@ -1,10 +1,19 @@
 @charset "utf-8";
 
 body {
-  background-color: black;
+    background-color: black;
 }
 
-.image_set > img {
-  width: 500px;
-  height: 500px;
+.image {
+    text-align: center;
+}
+
+.image > img {
+    width: 50%;
+    height: 50%;
+}
+
+.image_set > h2 {
+    color: white;
+    text-align: center;
 }
