@@ -1,1 +1,9 @@
+@charset "utf-8";
 
+body {
+  background-color: black;
+}
+
+.image_set {
+  text-align: center;
+}
